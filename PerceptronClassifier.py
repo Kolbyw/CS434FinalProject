@@ -62,7 +62,9 @@ print("Accuracy: ", accuracy)
 report = classification_report(y_test, y_pred)
 print("Classification Report: \n", report)
 
-plt.scatter(X['sepal length'], X['sepal width'])
-plt.xlabel("Sepal Length")
-plt.ylabel("Sepal Width")
-plt.show()
+# plt.scatter(X['sepal length'], X['sepal width'])
+# plt.xlabel("Sepal Length")
+# plt.ylabel("Sepal Width")
+# plt.show()
+
+# Accuracy: 1.00
