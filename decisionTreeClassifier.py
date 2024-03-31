@@ -21,3 +21,5 @@ print("Accuracy: ", accuracy)
 
 report = classification_report(y_test, y_pred)
 print("Classification Report: \n", report)
+
+# accuracy = 
